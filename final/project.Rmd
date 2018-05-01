@@ -1,0 +1,27 @@
+---
+title: "Rebound Rate among NBA DPoYs since 2007"
+author: "Serdric Acceus"
+date: "April 30, 2018"
+output: html_document
+---
+
+
+The Rebound Rate among past winners
+```{r}
+results.df
+```
+
+Would the block rate be a better indicator?
+
+```{r}
+results1.df
+```
+
+What about the steal rate?
+
+```{r}
+results2.df
+```
+
+Things I couldn't consider would be the positial nature in their positions affecting their chances of winning or losing the award and also a media bias that remains there.Usually high rebound numbers can contribute to winning the award like many others did in the past but with the verstility of the players increasing, many things can now contribute to winning defensive player of the year in the NBA.
+
