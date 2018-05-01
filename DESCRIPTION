@@ -1,11 +1,10 @@
 Package: Rebound
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Do Rebound Percentage rates affect DPOY vote?
 Version: 0.1.0
-Author: Who wrote it
+Author: Serdric Acceus
 Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
+Description: Looking under the basic form of if total rebound rates affect winning DPOY? 
 License: What license is it under?
 Encoding: UTF-8
 LazyData: true
